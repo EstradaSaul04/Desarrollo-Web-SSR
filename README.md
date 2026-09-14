@@ -1,4 +1,4 @@
-![Banner SEP TECNM ITGAM](.github/assets/pleca_itgam.jpg)
+![Encabezado ITGAM](.github/assets/pleca_itgam.jpg)
 
 # 🌐 👾 Desarrollo de Aplicaciones Web Server Side Rendering
 
