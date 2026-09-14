@@ -1,4 +1,4 @@
-![Encabezado ITGAM](ruta/a/tu/banner-itgam.png)
+![Banner SEP TEGNM ITGAM](.assets/pleca_itgam.jpg)
 
 # 🌐 👾 Desarrollo de Aplicaciones Web Server Side Rendering
 
@@ -14,7 +14,7 @@ Los tipos de commits más comunes en un proyecto de desarrollo web, organizados 
 
 | Icono | Tipo | Descripción | Ejemplo de Uso |
 | :---: | :---: | :--- | :--- |
-| ✨ | `feat` | Nueva característica o funcionalidad | `feat: agregar botón de modo oscuro` |
+| 🧩 | `feat` | Nueva característica o funcionalidad | `feat: agregar botón de modo oscuro` |
 | 🐛 | `fix` | Corrección de un error o bug | `fix: corregir desbordamiento en el navbar` |
 | 📝 | `docs` | Cambios únicamente en la documentación | `docs: actualizar el README con instrucciones de setup` |
 | 💄 | `style` | Cambios de formato o estilos (CSS, Tailwind, espacio en blanco) | `style: ajustar padding en el contenedor principal` |
