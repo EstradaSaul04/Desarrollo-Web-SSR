@@ -1,21 +1,26 @@
-![Pleca Itgam](.github/assets/pleca_itgam.jpg)
-# Desarrollo-Web-SSR
-Proyecto de la materia de Desarrollo Web Server Rendiring
+![Encabezado ITGAM](ruta/a/tu/banner-itgam.png)
 
-Desarrollo Web SSR
- Datos de la asignatura
-CLAVE DE LA ASIGNATURA
-DAB-1704
-CRÉDITOS
-1-4-5
- Caracterización de la asignatura
-Esta asignatura proporciona al perfil del ingeniero en ITICS las competencias necesarias para participar en todas las etapas de la pila tecnológica de una aplicación web.
- Objetivos generales del curso
-Esta asignatura aporta al perfil del Ingeniero en Tecnologías de la Información y Comunicaciones:
-Las capacidades necesarias para desarrollar aplicaciones web completas. Esto incluye involucrarse en las etapas de creación del servidor utilizando frameworks, modelado de datos empleando bibliotecas de mapeo de clases a bases de datos (ORM/ODM), lógica de negocios, creación de APIs REST, interfaz de usuario responsiva y despliegue de la aplicación tanto en infraestructura local como en la nube. Todo esto se logrará utilizando herramientas administradoras de paquetes y software de control de versiones, y organizando la arquitectura mediante el patrón de diseño MVC.
-Aprenderán a crear el servidor utilizando frameworks, modelar datos con bibliotecas de mapeo a bases de datos, implementar la lógica de negocios, crear APIs REST, diseñar interfaces de usuario responsivas y desplegar aplicaciones en entornos locales y en la nube. También se utilizarán herramientas de administración de paquetes y control de versiones, y se organizará la arquitectura siguiendo el patrón de diseño MVC. ¡Prepárate para dominar el desarrollo web en pila completa!
- Competencias
-Competencias previas
-Desarrolla aplicaciones web utilizando ES6, HTML y CSS, y utiliza herramientas de software que facilitan el desarrollo de aplicaciones web modernas.
-Competencias a desarrollar
+# 🌐 👾 Desarrollo de Aplicaciones Web Server Side Rendering
+
+Proyecto de la materia de Desarrollo Web Server Side Rendering
+
+## 🚀 Competencias a desarrollar
+
 El participante identifica los frameworks más utilizados en la industria para el desarrollo de aplicaciones web de pila completa y emplea uno de ellos para desarrollar aplicaciones web siguiendo las mejores prácticas de desarrollo.
+
+## 🖼️ Convención de Iconos para Commits
+
+Los tipos de commits más comunes en un proyecto de desarrollo web, organizados por su propósito y acompañados por las convenciones estándar de **Conventional Commits** y sus emojis correspondientes:
+
+| Icono | Tipo | Descripción | Ejemplo de Uso |
+| :---: | :---: | :--- | :--- |
+| ✨ | `feat` | Nueva característica o funcionalidad | `feat: agregar botón de modo oscuro` |
+| 🐛 | `fix` | Corrección de un error o bug | `fix: corregir desbordamiento en el navbar` |
+| 📝 | `docs` | Cambios únicamente en la documentación | `docs: actualizar el README con instrucciones de setup` |
+| 💄 | `style` | Cambios de formato o estilos (CSS, Tailwind, espacio en blanco) | `style: ajustar padding en el contenedor principal` |
+| ♻️ | `refactor` | Reorganización de código sin cambiar comportamiento ni corregir bugs | `refactor: simplificar función de validación de correo` |
+| ⚡ | `perf` | Mejora de rendimiento | `perf: optimizar carga de imágenes con lazy loading` |
+| 🧪 | `test` | Añadir o corregir pruebas unitarias o de integración | `test: agregar pruebas para el flujo de checkout` |
+| 🔧 | `chore` | Tareas de mantenimiento, configuración o herramientas de build | `chore: actualizar dependencias en package.json` |
+| 👷 | `ci` | Cambios en archivos o scripts de integración continua (CI/CD) | `ci: configurar GitHub Actions para despliegue` |
+| ⏪ | `revert` | Revertir un commit previo | `revert: deshacer commit a1b2c3d` |
